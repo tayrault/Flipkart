@@ -1,4 +1,4 @@
-# 🛒 Flipkart Retail Data Analysis project
+# 🛒 Flipkart e-commerce Data Analysis project
 
 A full-cycle data analysis project built on a synthetic Flipkart retail dataset — from raw data exploration to an interactive Power BI dashboard with multi-currency support.
 
